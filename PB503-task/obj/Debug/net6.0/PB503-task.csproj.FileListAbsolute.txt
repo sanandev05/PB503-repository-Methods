@@ -1,0 +1,15 @@
+C:\Users\Icomp\Desktop\Tasks\PB503-task-methods\PB503-task\bin\Debug\net6.0\PB503-task.exe
+C:\Users\Icomp\Desktop\Tasks\PB503-task-methods\PB503-task\bin\Debug\net6.0\PB503-task.deps.json
+C:\Users\Icomp\Desktop\Tasks\PB503-task-methods\PB503-task\bin\Debug\net6.0\PB503-task.runtimeconfig.json
+C:\Users\Icomp\Desktop\Tasks\PB503-task-methods\PB503-task\bin\Debug\net6.0\PB503-task.dll
+C:\Users\Icomp\Desktop\Tasks\PB503-task-methods\PB503-task\bin\Debug\net6.0\PB503-task.pdb
+C:\Users\Icomp\Desktop\Tasks\PB503-task-methods\PB503-task\obj\Debug\net6.0\PB503-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Icomp\Desktop\Tasks\PB503-task-methods\PB503-task\obj\Debug\net6.0\PB503-task.AssemblyInfoInputs.cache
+C:\Users\Icomp\Desktop\Tasks\PB503-task-methods\PB503-task\obj\Debug\net6.0\PB503-task.AssemblyInfo.cs
+C:\Users\Icomp\Desktop\Tasks\PB503-task-methods\PB503-task\obj\Debug\net6.0\PB503-task.csproj.CoreCompileInputs.cache
+C:\Users\Icomp\Desktop\Tasks\PB503-task-methods\PB503-task\obj\Debug\net6.0\PB503-task.sourcelink.json
+C:\Users\Icomp\Desktop\Tasks\PB503-task-methods\PB503-task\obj\Debug\net6.0\PB503-task.dll
+C:\Users\Icomp\Desktop\Tasks\PB503-task-methods\PB503-task\obj\Debug\net6.0\refint\PB503-task.dll
+C:\Users\Icomp\Desktop\Tasks\PB503-task-methods\PB503-task\obj\Debug\net6.0\PB503-task.pdb
+C:\Users\Icomp\Desktop\Tasks\PB503-task-methods\PB503-task\obj\Debug\net6.0\PB503-task.genruntimeconfig.cache
+C:\Users\Icomp\Desktop\Tasks\PB503-task-methods\PB503-task\obj\Debug\net6.0\ref\PB503-task.dll
